@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, Nice to see you! 👋
+
+Welcome to my page!
+
+I am fengluo97, from China. I graduated from Xiangtan University majoring in software engineering and won the title of outstanding graduate.
+
+Currently focusing on back-end, working as a Java development engineer with two years of experience.
+
+I love open source, but I'm a beginner.
+
+Let's make progress together!
 
 <!--
 **fengluo97/fengluo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=fengluo97&show_icons=true&theme=radical)
