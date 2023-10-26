@@ -2,13 +2,11 @@
 
 Welcome to my page!
 
-I am fengluo97, from China. I graduated from Xiangtan University majoring in software engineering and won the title of outstanding graduate.
+I'm fengluo97, from China, graduated from Xiangtan University majoring in software engineering and won the title of outstanding graduate.
 
 Currently focusing on back-end, working as a Java development engineer with two years of experience.
 
-I love open source, but I'm a beginner.
-
-Let's make progress together!
+I love open source, but I'm a beginner. Let's make progress together!
 
 <!--
 **fengluo97/fengluo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
