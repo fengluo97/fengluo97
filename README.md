@@ -4,7 +4,7 @@ Welcome to my page!
 
 😄 I'm fengluo97, from China, graduated from Xiangtan University majoring in software engineering and won the title of outstanding graduate.
 
-🌱 Currently focusing on back-end, working as a Java development engineer with two years of experience.
+🌱 Currently focusing on back-end, working as a Java development engineer with one years of experience.
 
 👯 I love open source, but I'm a beginner. Let's make progress together!
 
