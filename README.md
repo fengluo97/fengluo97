@@ -2,9 +2,9 @@
 
 Welcome to my page!
 
-😄 I'm fengluo97, currently focusing on back-end, working as a Java development engineer with one years of experience.
+😄 I'm fengluo, currently focusing on back-end, working as a Java development engineer with two years of experience. Currently working at Alibaba.
 
-👯 I love open source, but I'm a beginner. Let's make progress together!
+👯 I love open source, but I'm a beginner. Let's make progress together.
 
 <!--
 **fengluo97/fengluo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
